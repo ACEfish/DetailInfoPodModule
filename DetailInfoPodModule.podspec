@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                     组件化开发、iOS pod打包上传教程
                    DESC
 
-  s.homepage     = "http://EXAMPLE/your_pod_spec_name"
+  s.homepage     = "https://github.com/ACEfish/DetailInfoPodModule.git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -39,7 +39,7 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = "MIT (example)"
+  s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
