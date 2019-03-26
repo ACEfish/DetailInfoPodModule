@@ -13,6 +13,7 @@
 		CF5E35792248C7B8001A8B2F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF5E35782248C7B8001A8B2F /* Assets.xcassets */; };
 		CF5E357C2248C7B8001A8B2F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF5E357A2248C7B8001A8B2F /* LaunchScreen.storyboard */; };
 		CF5E357F2248C7B8001A8B2F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CF5E357E2248C7B8001A8B2F /* main.m */; };
+		CF90C9D8224A521E00888C7A /* ListModuleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CF90C9D7224A521E00888C7A /* ListModuleViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		CF5E357B2248C7B8001A8B2F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CF5E357D2248C7B8001A8B2F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CF5E357E2248C7B8001A8B2F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CF90C9D6224A521E00888C7A /* ListModuleViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ListModuleViewController.h; sourceTree = "<group>"; };
+		CF90C9D7224A521E00888C7A /* ListModuleViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ListModuleViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				CF5E35702248C7B7001A8B2F /* AppDelegate.m */,
 				CF5E35722248C7B7001A8B2F /* ViewController.h */,
 				CF5E35732248C7B7001A8B2F /* ViewController.m */,
+				CF90C9D6224A521E00888C7A /* ListModuleViewController.h */,
+				CF90C9D7224A521E00888C7A /* ListModuleViewController.m */,
 				CF5E35752248C7B7001A8B2F /* Main.storyboard */,
 				CF5E35782248C7B8001A8B2F /* Assets.xcassets */,
 				CF5E357A2248C7B8001A8B2F /* LaunchScreen.storyboard */,
@@ -143,6 +148,7 @@
 			files = (
 				CF5E35742248C7B7001A8B2F /* ViewController.m in Sources */,
 				CF5E357F2248C7B8001A8B2F /* main.m in Sources */,
+				CF90C9D8224A521E00888C7A /* ListModuleViewController.m in Sources */,
 				CF5E35712248C7B7001A8B2F /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
